@@ -1,0 +1,13 @@
+{
+  "Locators": {
+    "NextLinkLocator": "pnnext",
+    "SearchLocator": "q",
+    "CountOfResultLinks": "//h3[@class='LC20lb MBeuO DKV0Md']",
+    "ResultStatusLocator": "result-stats"
+
+  },
+
+  "Data": {
+    "SearchKeys": "Instabug"
+  }
+}
