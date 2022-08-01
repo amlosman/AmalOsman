@@ -1,0 +1,4 @@
+To run headless or not:
+• Please, change value of headless from DocomentElements.properties
+To search about anything:
+• Please, change value of SearchKeys from LocatorAndDataSet.json
